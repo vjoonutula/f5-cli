@@ -1,6 +1,12 @@
 #CLI interface into F5.
 Managing an F5 through the web interface is a bummer. Why not wrap the API in a cli for easier management!
 
+You will need to download the bigsuds soap library from f5.
+
+https://devcentral.f5.com/articles/getting-started-with-bigsuds-ndasha-new-python-library-for-icontrol#.Uw9r0vappBI
+
+F5 should put this on github..... :)
+
 Pull requests welcome!
 
 ### Assumptions
